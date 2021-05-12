@@ -4,7 +4,13 @@ Ever dreamed of control your volume in PC just by waving your hand in the air...
 
 ## Run the code 
 
--  Clone the folder - Gesture Volume Control 
+- Fork the Repo - Gesture Volume Control 
+![ ](image/fork.png) 
+
+-  Clone the folder 
+```
+git clone https://github.com/your-user-name/Gesture-Volume-Control.git
+```
 
 -  You must install python,mediapipe, openCV,numpy,time,ctypes,comtypes,pycaw and screen_brightness_control
 
